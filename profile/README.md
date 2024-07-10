@@ -1,7 +1,3 @@
-Sure! Here’s a shorter, more fun version of your GitHub profile README for Ekaiwa Resourcing and Solutions with emojis:
-
----
-
 # Ekaiwa Resourcing and Solutions 🚀
 
 Welcome to **Ekaiwa Resourcing and Solutions**! 🎉
